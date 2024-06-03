@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "Nome": "exemple",
+            "Quantidade": "3",
+            "Detalhes": "fill details"
+        },
+        {
+            "id": "1",
+            "Nome": "exemple",
+            "Quantidade": "3",
+            "Detalhes": "fill details"
+        },
+        {
+            "id": "1",
+            "Nome": "exemple",
+            "Quantidade": "3",
+            "Detalhes": "fill details"
+        },
+        {
+            "id": "1",
+            "Nome": "exemple",
+            "Quantidade": "3",
+            "Detalhes": "fill details"
+        }
+    ]
+}
